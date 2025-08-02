@@ -1,0 +1,6 @@
+train: "C:/Users/Charan Sai/AI_MODELS/yolov7-custom/data/KidneyStone/train"
+val: "C:/Users/Charan Sai/AI_MODELS/yolov7-custom/data/KidneyStone/val"
+
+nc: 2
+names: ['kidney-stone', 'normal kidney']
+

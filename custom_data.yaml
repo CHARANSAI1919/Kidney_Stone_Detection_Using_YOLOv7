@@ -1,0 +1,5 @@
+train: C:\Users\Charan Sai\yolov7_custom\yolov7-custom\data\Gender Classification\train\images
+val: C:\Users\Charan Sai\yolov7_custom\yolov7-custom\data\Gender Classification\valid\images
+
+nc: 2
+names: ['Female', 'Male']
